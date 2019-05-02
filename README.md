@@ -1,5 +1,7 @@
 # Welcome
 
+This is a list of my projects, tests and experiments I think worth a mention. You can find all my projects that I host on GitHub here: [github.com/gheja](https://github.com/gheja)
+
 # My projects
 
 ## Games
@@ -84,11 +86,10 @@ Convert touch events to mouse events in the browser.
 ### SitAmetGame
 
 A mock game just to test a cross-platform build process.
+— JavaScript
+— [Browse](https://github.com/gheja/sitametgame)
 
 It builds a ZIP for web ([zip-builder](https://github.com/gheja/zip-builder)), Android package ([android-builder](https://github.com/gheja/android-builder)), Windows and Linux executable and installer package ([nwjs-builder](https://github.com/gheja/nwjs-builder)).
-
-— JavaScript
-— https://github.com/gheja/sitametgame
 
 ### GBDK 
 
@@ -119,3 +120,5 @@ Implements Lunar Standard Time (LST) as it is described on Lunar Clock.
 — PHP
 — [Browse](https://github.com/gheja/lunar_date)
 
+
+# Contact
