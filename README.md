@@ -149,6 +149,14 @@ A top-down 2D vertical scrolling shooter game - at least the beginning of it - I
 — [Try](https://gheja.github.io/js13k2017experiments)
 — [Browse](https://github.com/gheja/js13k2017experiments)
 
+### misc
+
+Mis
+Some miscellaneous scripts, tests, experiments that did not fit else. Like [JS metaballs](http://gheja.github.io/misc/html5_canvas_effects/).
+— JavaScript, PHP, Linux Shell Script, Assembly, C, etc.
+— [Try](https://gheja.github.io/misc)
+— [Browse](http://github.com/gheja/misc)
+
 # Contact
 
 You can find me on
