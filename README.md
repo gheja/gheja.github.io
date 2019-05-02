@@ -21,7 +21,7 @@ Browser games are a recurring thing I do as I find them great opportunities to t
 A reverse Sokoban game where you need to pull the boxes, made for the game jam js13kGames 2015 for theme "reverse".
 — JavaScript
 — [Play](http://bokosan.net)
-— [Browse](https://github.com/gheja/bokosan)
+/ [Browse](https://github.com/gheja/bokosan)
 
 ### Where is Winston?
 
@@ -30,28 +30,28 @@ A reverse Sokoban game where you need to pull the boxes, made for the game jam j
 A game made for game jam js13kGames 2017 for the theme "lost".
 — JavaScript
 — [Play](https://gheja.itch.io/where-is-winston)
-— [Browse](https://github.com/gheja/lost13k)
+/ [Browse](https://github.com/gheja/lost13k)
 
 ### Glitch on Space Station 13
 
 A puzzle and mind bending (sometimes confusing) game made for the game jam js13kGames 2016 for theme "glitch".
 — JavaScript
 — [Play](https://gheja.itch.io/glitch-on-space-station-13)
-— [Browse](https://github.com/gheja/glitch13k)
+/ [Browse](https://github.com/gheja/glitch13k)
 
 ### Witch Simulator 2000+
 
 Made for Jamcraft 2018 game jam.
 — JavaScript
 — [Play](https://gheja.itch.io/witch-simulator-2000-plus)
-— [Browse](https://github.com/gheja/jamcraft2018)
+/ [Browse](https://github.com/gheja/jamcraft2018)
 
 ### Offline 13k
 
 A VR/XR 3D runner game made for the game jam js13kGames 2018 for the theme "offline".
 — JavaScript
 — [Play](http://js13kgames.com/entries/bring-your-customers-back-online)
-— [Browse](https://github.com/gheja/offline13k)
+/ [Browse](https://github.com/gheja/offline13k)
 
 ### Untitled13
 
@@ -64,7 +64,7 @@ A multiplayer tower attack-defense game for the js13kGames 2013.
 An entry for the 1-bit clicker jam.
 — JavaScript
 — [Play](https://gheja.itch.io/clickerquest-wip)
-— [Browse](https://github.com/gheja/clickerquest)
+/ [Browse](https://github.com/gheja/clickerquest)
 
 ## Tools
 
@@ -78,7 +78,7 @@ Test for the client side (JavaScript) Facebook login API - login, logout and pro
 
 A manual implementation for DNS-01 challenge hook used in dehydrated, a Let's Encrypt client. Instead of editing a DNS zone file it prompts what you need to do.
 — Linux Shell Script
-— [Browse](https://github.com/gheja/dns-01-manual
+— [Browse](https://github.com/gheja/dns-01-manual)
 
 ### vsop87.js
 
@@ -91,7 +91,7 @@ JavaScript library to calculate the position of the planets in the solar system 
 Trilateration in 3D space.
 — JavaScript
 — [Try](https://gheja.github.io/trilateration.js)
-— [Browse](https://github.com/gheja/trilateration.js)
+/ [Browse](https://github.com/gheja/trilateration.js)
 
 ### touchtomouse.js
 
@@ -142,12 +142,12 @@ Implements Lunar Standard Time (LST) as it is described on Lunar Clock.
 
 A top-down 2D vertical scrolling shooter game - at least the beginning of it - I started making it for the LOWREZJAM 2018 game jam — JavaScript
 — [Try](https://gheja.github.io/tyrianish/src)
-— [Browse](https://github.com/gheja/tyrianish)
+/ [Browse](https://github.com/gheja/tyrianish)
 
 ### Test for js13kGames 2017
 — JavaScript
 — [Try](https://gheja.github.io/js13k2017experiments)
-— [Browse](https://github.com/gheja/js13k2017experiments)
+/ [Browse](https://github.com/gheja/js13k2017experiments)
 
 ### misc
 
@@ -155,7 +155,7 @@ Mis
 Some miscellaneous scripts, tests, experiments that did not fit else. Like [JS metaballs](http://gheja.github.io/misc/html5_canvas_effects/).
 — JavaScript, PHP, Linux Shell Script, Assembly, C, etc.
 — [Try](https://gheja.github.io/misc)
-— [Browse](http://github.com/gheja/misc)
+/ [Browse](http://github.com/gheja/misc)
 
 # Contact
 
