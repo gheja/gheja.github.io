@@ -1,6 +1,10 @@
 # Welcome
 
-This is a list of my projects, tests and experiments I think worth a mention. You can find all my projects that I host on GitHub here: [github.com/gheja](https://github.com/gheja)
+This is a list of my projects, tests and experiments I think worth a mention. You can find all my projects that I host on GitHub at [github.com/gheja](https://github.com/gheja) .
+
+I mostly code what I find interesting or think I'll find useful later, these are not part of my job (however I used to be a web developer team lead a long time ago), these are merely experiments, pet projects and game jam entries.
+
+Browser games are a recurring thing I do as I find them great opportunities to test an idea and finish it before a hard deadline.
 
 # My projects
 
@@ -122,3 +126,19 @@ Implements Lunar Standard Time (LST) as it is described on Lunar Clock.
 
 
 # Contact
+
+You can find me on
+[my webpage](https://gabor.heja.hu/)  · 
+[GitHub](https://github.com/gheja/)  · 
+[LinkedIn](http://hu.linkedin.com/pub/gabor-heja/50/852/118/) · 
+[Twitter](https://twitter.com/gheja_) · 
+[Facebook](https://facebook.com/gabor.heja/) · 
+[Youtube](https://www.youtube.com/user/kakaopor) · 
+[Patreon](http://www.patreon.com/user?u=45620) · 
+[Mensa](https://tag.mensa.hu/felhasznalok/19479) · 
+[Steam](http://steamcommunity.com/profiles/76561198001521032/) · 
+[Picasa Web](https://picasaweb.google.com/117925865825180112935?noredirect=1) · 
+[Kickstarter](https://www.kickstarter.com/profile/1929368013) · 
+[IndieGogo](https://www.indiegogo.com/individuals/4088343/x/4088343) · 
+[BandCamp](https://bandcamp.com/gheja) · 
+[Geocaching.com](http://www.geocaching.com/profile/?guid=03b36123-e1d1-4d57-a855-8fb414871e1e).
