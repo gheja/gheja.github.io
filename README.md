@@ -12,11 +12,7 @@ Browser games are a recurring thing I do as I find them great opportunities to t
 
 ### Bokosan
 
-*This is your first night shift as a warehouse keeper.*
-
 *Your job is to pull back all the boxes that were restlessly pushed in the wrong places by your daytime colleagues in the past 30 years.*
-
-*Your boss said something about unusual rooms but that does not matter. Probably.*
 
 A reverse Sokoban game where you need to pull the boxes, made for the game jam js13kGames 2015 for theme "reverse".
 — JavaScript
@@ -45,13 +41,6 @@ Made for Jamcraft 2018 game jam.
 — JavaScript
 — [Play](https://gheja.itch.io/witch-simulator-2000-plus)
 / [Browse](https://github.com/gheja/jamcraft2018)
-
-### Offline 13k
-
-A VR/XR 3D runner game made for the game jam js13kGames 2018 for the theme "offline".
-— JavaScript
-— [Play](http://js13kgames.com/entries/bring-your-customers-back-online)
-/ [Browse](https://github.com/gheja/offline13k)
 
 ### Untitled13
 
