@@ -92,9 +92,10 @@ Convert touch events to mouse events in the browser.
 
 A mock game just to test a cross-platform build process.
 — JavaScript
-— [Browse](https://github.com/gheja/sitametgame)
+— [Releases](https://github.com/gheja/sitametgame/releases)
+/ [Browse](https://github.com/gheja/sitametgame)
 
-It builds a ZIP for web ([zip-builder](https://github.com/gheja/zip-builder)), Android package ([android-builder](https://github.com/gheja/android-builder)), Windows and Linux executable and installer package ([nwjs-builder](https://github.com/gheja/nwjs-builder)).
+It builds a ZIP for web ([zip-builder](https://github.com/gheja/zip-builder)), Android package ([android-builder](https://github.com/gheja/android-builder)), Windows and Linux executable and installer package ([nwjs-builder](https://github.com/gheja/nwjs-builder)). Check them out here: [Releases](https://github.com/gheja/sitametgame/releases)
 
 ### GBDK (forked)
 
