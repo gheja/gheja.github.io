@@ -189,6 +189,13 @@ Implements Lunar Standard Time (LST) as it is described on Lunar Clock.
 
 ## Tests and experiments
 
+### face-recognition-test
+
+A quick test of face recognition in Python. The repo is a part of the blog post.
+— Python
+— [Browse](https://github.com/gheja/face-recognition-test)
+/ [Blog post](https://gabor.heja.hu/blog/2021/01/04/easy-face-recognition-in-2021-using-python/)
+
 ### Tyrianish
 
 A top-down 2D vertical scrolling shooter game - at least the beginning of it - I started making it for the LOWREZJAM 2018 game jam — JavaScript
@@ -202,7 +209,6 @@ A top-down 2D vertical scrolling shooter game - at least the beginning of it - I
 
 ### misc
 
-Mis
 Some miscellaneous scripts, tests, experiments that did not fit else. Like [JS metaballs](http://gheja.github.io/misc/html5_canvas_effects/).
 — JavaScript, PHP, Linux Shell Script, Assembly, C, etc.
 — [Try](https://gheja.github.io/misc)
