@@ -20,7 +20,7 @@ A cute cozy game with bunnies and matches. Made for the LOWREZJAM 2023 game jam.
 
 ### Clutter Rush
 
-A game about procrastination and the last 20 seconds before a guest arrives. Made for the 20 Second Game Jam.
+A game about procrastination and the last 20 seconds before a guest arrives. Made for the 20 Second Game Jam 2023.
 — Godot Engine
 — [Play the jam version](https://gheja.itch.io/clutter-rush)
 / (Code not yet available)
@@ -43,7 +43,7 @@ A game for the Games for Blind Gamers 3 and Blind Accessible Game Jam #2.
 
 ### Good Boy... just very hungry
 
-A little platformer made for Nokia 3310 Jam 5, about a dog and his dream of a tasty meat.
+A little platformer game about a dog and his dream of a tasty meat. Made for the Nokia 3310 Jam 5 (2023) and the theme "fast & slow".
 — Godot Engine
 — [Play the latest version](https://gheja.itch.io/good-boy-just-very-hungry-latest)
 / [Play the jam version](https://gheja.itch.io/good-boy-just-very-hungry)
@@ -51,7 +51,7 @@ A little platformer made for Nokia 3310 Jam 5, about a dog and his dream of a ta
 
 ### Shifty Dungeon
 
-A game originally made for the GMTK GameJam 2023 for the theme "Roles Reversed".
+A game originally made for the GMTK GameJam 2023 and the theme "Roles Reversed".
 — Godot Engine
 — [Play the latest version](https://gheja.itch.io/shifty-dungeon-latest)
 / [Play the jam version](https://gheja.itch.io/shifty-dungeon)
@@ -59,7 +59,7 @@ A game originally made for the GMTK GameJam 2023 for the theme "Roles Reversed".
 
 ### Tlatim!
 
-A game for the NOKIA 3310 Jam 6 (2024).
+A game for the NOKIA 3310 Jam 6 (2024) and the theme "freeze".
 — Godot Engine
 — [Play the jam version](https://gheja.itch.io/tlatim)
 / [Browse](https://github.com/gheja/tlatim)
