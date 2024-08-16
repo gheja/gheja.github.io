@@ -4,11 +4,72 @@ This is a list of my projects, tests and experiments I think worth a mention. Yo
 
 I mostly code what I find interesting or think I'll find useful later, these are not part of my job (however I used to be a web developer team lead a long time ago), these are merely experiments, pet projects and game jam entries.
 
-Browser games are a recurring thing I do as I find them great opportunities to test an idea and finish it before a hard deadline.
+Game jams are a recurring thing I do as I find them great opportunities to test an idea and finish it before a hard deadline.
 
 # My projects
 
 ## Games
+
+### Busy Bun Buddies
+
+A cute cozy game with bunnies and matches. Made for the LOWREZJAM 2023 game jam.
+— Godot Engine
+— [Play the latest version](https://gheja.itch.io/busy-bun-buddies-latest)
+/ [Play the jam version](https://gheja.itch.io/busy-bun-buddies)
+/ [Browse](https://github.com/gheja/busy-bun-buddies)
+
+### Clutter Rush
+
+A game about procrastination and the last 20 seconds before a guest arrives. Made for the 20 Second Game Jam.
+— Godot Engine
+— [Play the jam version](https://gheja.itch.io/clutter-rush)
+/ (Code not yet available)
+
+### Boxez
+
+A short factory builder automation game made for the LOWREZJAM 2024 game jam.
+— Godot Engine
+— [Play the latest version](https://gheja.itch.io/boxez-latest)
+/ [Play the jam version](https://gheja.itch.io/boxez)
+/ [Browse](https://github.com/gheja/boxez)
+
+### Doggy Daycare
+
+A game for the Games for Blind Gamers 3 and Blind Accessible Game Jam #2.
+— Godot Engine
+— [Play the latest version](https://gheja.itch.io/doggy-daycare-latest)
+/ [Play the jam version](https://gheja.itch.io/doggy-daycare)
+/ [Browse](https://github.com/gheja/doggy-daycare)
+
+### Good Boy... just very hungry
+
+A little platformer made for Nokia 3310 Jam 5, about a dog and his dream of a tasty meat.
+— Godot Engine
+— [Play the latest version](https://gheja.itch.io/good-boy-just-very-hungry-latest)
+/ [Play the jam version](https://gheja.itch.io/good-boy-just-very-hungry)
+/ [Browse](https://github.com/gheja/good-boy-just-very-hungry)
+
+### Shifty Dungeon
+
+A game originally made for the GMTK GameJam 2023 for the theme "Roles Reversed".
+— Godot Engine
+— [Play the latest version](https://gheja.itch.io/shifty-dungeon-latest)
+/ [Play the jam version](https://gheja.itch.io/shifty-dungeon)
+/ [Browse](https://github.com/gheja/shifty-dungeon)
+
+### Tlatim!
+
+A game for the NOKIA 3310 Jam 6 (2024).
+— Godot Engine
+— [Play the jam version](https://gheja.itch.io/tlatim)
+/ [Browse](https://github.com/gheja/tlatim)
+
+### Cooking for Skully
+
+A cooking game where you have to prepare foods. Made for the game jam js13kGames 2022 for theme "death".
+— JavaScript
+— [Play the jam version](https://gheja.itch.io/cooking-for-skully)
+/ [Browse](https://github.com/gheja/js13k2022)
 
 ### Bokosan
 
